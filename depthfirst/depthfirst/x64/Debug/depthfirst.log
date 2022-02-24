@@ -1,0 +1,3 @@
+﻿  depthfirst.cpp
+D:\depthfirst\depthfirst\depthfirst.cpp(55): warning C4715: 'Stack::pop': not all control paths return a value
+  depthfirst.vcxproj -> D:\depthfirst\x64\Debug\depthfirst.exe
